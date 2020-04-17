@@ -4,10 +4,10 @@ class A:
         print("no change")
 
 
-class B:
+class C:
     def __init__(self):
-        print("this is second file B class")
-        print("no change")
+        print("delete class B")
+        print("add a new class C")
 
 
 if __name__ == '__main__':
